@@ -1,0 +1,10 @@
+# Состояние окон и код плагинов — не в репозиторий. Плагины Obsidian
+# поставит сам по списку в .obsidian/community-plugins.json.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/*
+!.obsidian/plugins/*/data.json
+!.obsidian/plugins/*/manifest.json
+
+.trash/
+.DS_Store

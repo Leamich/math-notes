@@ -1,0 +1,42 @@
+views:
+  - type: table
+    name: Содержание
+    filters:
+      and:
+        - list(up).contains(this.file.asLink())
+    order:
+      - file.name
+      - type
+      - kind
+      - status
+    sort:
+      - property: type
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Темы
+    filters:
+      and:
+        - list(up).contains(this.file.asLink())
+        - type == "index"
+  - type: table
+    name: Дыры
+    filters:
+      and:
+        - list(up).contains(this.file.asLink())
+        - status == "seed"
+  - type: table
+    name: Занятия
+    filters:
+      and:
+        - list(up).contains(this.file.asLink())
+        - kind == "lecture"
+    order:
+      - file.name
+      - date
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: date
+        direction: ASC
