@@ -8,3 +8,9 @@
 
 .trash/
 .DS_Store
+
+# Обвязка сайта: сам Quartz в репозитории лежит,
+# а его зависимости и сборка — нет.
+.site/node_modules/
+.site/public/
+.site/.quartz/
