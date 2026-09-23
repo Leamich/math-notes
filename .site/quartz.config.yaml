@@ -90,6 +90,12 @@ plugins:
       # \centernot, \pu и \textasciitilde из конспектов работают как есть,
       # без подмены приблизительными аналогами.
       renderEngine: mathjax
+      mathJaxOptions:
+        svg:
+          # Глифы вставляются в саму формулу, а не адресуются по id.
+          # Иначе всплывающее превью подтягивает кусок чужой страницы,
+          # id сталкиваются с текущей, и формулы не отрисовываются.
+          fontCache: none
       customMacros:
         # --- собрано из preamble.sty, руками не править ---
         '\tg': '\operatorname{tg}'
