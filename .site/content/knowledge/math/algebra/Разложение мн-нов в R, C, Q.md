@@ -1,5 +1,7 @@
 ---
 title: "Разложение мн-нов в R, C, Q"
+tags:
+  - понятие
 ---
 
 [[courses/hse/algebra/Алгебра|Алгебра]] › [[knowledge/math/algebra/Комплексные числа|Комплексные числа]] › [[knowledge/math/algebra/Гауссовы числа и ДПФ|Гауссовы числа и ДПФ]]

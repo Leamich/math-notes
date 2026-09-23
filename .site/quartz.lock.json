@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "graph": {
+      "source": "./plugins/graph",
+      "resolved": "C:\\Users\\Misha\\Desktop\\obs\\math-notes\\.site\\plugins\\graph",
+      "commit": "local",
+      "installedAt": "2026-09-23T00:50:53.621Z"
+    }
+  }
+}

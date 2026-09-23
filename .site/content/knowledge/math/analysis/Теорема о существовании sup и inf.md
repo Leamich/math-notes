@@ -1,5 +1,7 @@
 ---
 title: "Теорема о существовании sup и inf"
+tags:
+  - понятие
 ---
 
 [[courses/hse/matan/Мат. анализ|Мат. анализ]] › [[knowledge/math/analysis/Основания|Основания]] › [[knowledge/math/analysis/Вещественные числа|Вещественные числа]]

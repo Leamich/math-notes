@@ -1,5 +1,7 @@
 ---
 title: "Ряды Тейлора для sin cos exp"
+tags:
+  - понятие
 ---
 
 [[courses/hse/matan/Мат. анализ|Мат. анализ]] › [[knowledge/math/analysis/Дифференциальное исчисление|Дифференциальное исчисление]] › [[knowledge/math/analysis/Формула Тейлора|Формула Тейлора]]

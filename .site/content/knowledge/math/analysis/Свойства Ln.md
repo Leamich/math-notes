@@ -1,5 +1,7 @@
 ---
 title: "Свойства Ln"
+tags:
+  - понятие
 ---
 
 [[courses/hse/matan/Мат. анализ|Мат. анализ]] › [[knowledge/math/analysis/ТФКП|ТФКП]] › [[knowledge/math/analysis/Аналитическое продолжение|Аналитическое продолжение]]

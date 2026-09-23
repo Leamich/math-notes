@@ -1,5 +1,7 @@
 ---
 title: "Циклические группы и RSA"
+tags:
+  - тема
 ---
 
 [[courses/hse/algebra/Алгебра|Алгебра]] › [[knowledge/math/algebra/Теория чисел|Теория чисел]]
